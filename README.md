@@ -6,11 +6,15 @@ Este repositório foi criado para documentar minha evolução no design de inter
 
 Cada projeto representa um pouco do meu treinamento e explora conceitos específicos de UX/UI. Eles são organizados em ordem cronológica, permitindo que você acompanhe minha evolução desde o início.
 
+## Acompanhando a Evolução
+
+Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos em ordem cronológica. Cada projeto está em sua própria pasta neste repositório e contém detalhes sobre o que foi desenvolvido e os conceitos aplicados. Além disso, é possível visualizar os designs completos das interfaces em cada projeto.
+
 ## Projetos Realizados
 
 - **UI - Design** (18/06/2023)
 
-| Prática Natureza                                    |
+| Espaço Prática                                      |
 | --------------------------------------------------- |
 | ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/UI-Design/0302-espaco-pratica/print/print-espaco-pratica.JPG)
 
@@ -27,10 +31,6 @@ Cada projeto representa um pouco do meu treinamento e explora conceitos específ
 [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Praticas-iniciante-01)
 
 ...
-
-## Acompanhando a Evolução
-
-Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos em ordem cronológica. Cada projeto está em sua própria pasta neste repositório e contém detalhes sobre o que foi desenvolvido e os conceitos aplicados. Além disso, é possível visualizar os designs completos das interfaces em cada projeto.
 
 ## Contribuição
 
