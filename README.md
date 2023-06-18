@@ -10,21 +10,11 @@ Cada projeto representa um pouco do meu treinamento e explora conceitos específ
 
 - **Práticas de Iniciante 01** (18/06/2023)
 
-  ![Prática Natureza](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Praticas-iniciante-01/tela1/print/print-tela1.JPG)
+| Prática Natureza                                    | Prática Perfil                                    | Prática Formulário                                 |
+| --------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
+| ![Prática Natureza](caminho-para-o-print-1) | ![Prática Perfil](caminho-para-o-print-2) | ![Prática Formulário](caminho-para-o-print-3) |
 
-  [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Praticas-iniciante-01)
-
-- **Prática Perfil** (18/06/2023)
-
-  ![Prática Perfil](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Praticas-iniciante-01/tela2/print/print-tela2.JPG)
-
-  [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Praticas-iniciante-01/tela2)
-
-- **Prática Formulário** (18/06/2023)
-
-  ![Prática Formulário](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Praticas-iniciante-01/tela3/print/print-tela3.JPG)
-
-  [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Praticas-iniciante-01/tela3)
+[Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Praticas-iniciante-01)
 
 ...
 
