@@ -8,6 +8,16 @@ Cada projeto representa um pouco do meu treinamento e explora conceitos específ
 
 ## Projetos Realizados
 
+- **UI - Design** (18/06/2023)
+
+| Prática Natureza                                    |
+| --------------------------------------------------- |
+| ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/UI-Design/0302-espaco-pratica/print/print-espaco-pratica.JPG)
+
+[Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/UI-Design/)
+
+...
+
 - **Práticas de Iniciante 01** (18/06/2023)
 
 | Prática Natureza                                    | Prática Perfil                                    | Prática Formulário                                 | Prática Finanças                                    |
