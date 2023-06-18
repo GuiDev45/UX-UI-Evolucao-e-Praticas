@@ -12,7 +12,7 @@ Cada projeto representa um pouco do meu treinamento e explora conceitos específ
 
 | Prática Natureza                                    | Prática Perfil                                    | Prática Formulário                                 |
 | --------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
-| ![Prática Natureza](caminho-para-o-print-1) | ![Prática Perfil](caminho-para-o-print-2) | ![Prática Formulário](caminho-para-o-print-3) |
+| ![Prática Natureza](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Praticas-iniciante-01/tela1/print/print-tela1.JPG) | ![Prática Perfil](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Praticas-iniciante-01/tela2/print/print-tela2.JPG) | ![Prática Formulário](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Praticas-iniciante-01/tela3/print/print-tela3.JPG) |
 
 [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Praticas-iniciante-01)
 
