@@ -14,9 +14,9 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 - **UI - Design** (18/06/2023)
 
-| Espaço Prática                                      |
-| --------------------------------------------------- |
-| ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/UI-Design/0302-espaco-pratica/print/print-espaco-pratica.JPG)
+| Espaço Prática                                      | Tipografia Prática				    |
+| --------------------------------------------------- | --------------------------------------------------- |
+| ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/UI-Design/0302-espaco-pratica/print/print-espaco-pratica.JPG) | ![Tipografia Prática Correta](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/UI-Design/0306-tipografia-pratica/print/print-tipografia-pratica-ajustada.JPG) | ![Tipografia Prática Errada](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/UI-Design/0306-tipografia-pratica/print/print-tipografia-pratica-nao-ajustada.JPG)
 
 [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/UI-Design/)
 
