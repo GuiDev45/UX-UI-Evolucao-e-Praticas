@@ -12,6 +12,12 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 ## Projetos Realizados
 
+- **Interfaces Digitais** (24/06/2023)
+
+| Navegação Prática - surfbot                         |
+| --------------------------------------------------- |
+| ![Navegação Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Interfaces%20Digitais/0403-navegacao-pratica/surfbot/print/print-surfbot-final.JPG) |
+
 - **UI - Design** (18/06/2023)
 
 | Espaço Prática                                      | Tipografia Prática				                    | Cores Prática				                          |
