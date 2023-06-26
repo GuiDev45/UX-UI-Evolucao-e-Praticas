@@ -14,9 +14,10 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 - **Interfaces Digitais** (24/06/2023)
 
-| Navegação Prática - surfbot                         |
-| --------------------------------------------------- |
-| ![Navegação Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Interfaces%20Digitais/0403-navegacao-pratica/surfbot/print/print-surfbot-final.JPG) |
+| Navegação Prática - surfbot                         | Navegação Prática - caravan                         |
+| --------------------------------------------------- | --------------------------------------------------- |
+| ![Navegação Prática - surfbot](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Interfaces%20Digitais/0403-navegacao-pratica/surfbot/print/print-surfbot-final.JPG) |
+| ![Navegação Prática - caravan](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Interfaces%20Digitais/caravan/print/print-caravan-final.JPG) |
 
 - **UI - Design** (18/06/2023)
 
