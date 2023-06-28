@@ -13,9 +13,11 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 ## Projetos Realizados
 
 - **Projeto Pessoal** (28/06/2023)
+
 | Rascunho e início de protótipo                      |
 | --------------------------------------------------- |
 | ![Rascunho e início de protótipo - surfbot](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/prototipo-inicio.JPG)
+
 
 - **Interfaces Digitais** (24/06/2023)
 
