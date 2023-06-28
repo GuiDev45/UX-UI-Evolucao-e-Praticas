@@ -14,10 +14,13 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 - **Projeto Pessoal** (28/06/2023)
 
-| Rascunho e início de protótipo                      |
+| Rascunho e início do protótipo                      |
 | --------------------------------------------------- |
 | ![Rascunho e início de protótipo - surfbot](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/prototipo-inicio.JPG)
 
+[Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Projeto%20Pessoal)
+
+...
 
 - **Interfaces Digitais** (24/06/2023)
 
@@ -25,6 +28,9 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | ![Navegação Prática - surfbot](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Interfaces%20Digitais/surfbot/print/print-surfbot-final.JPG) | ![Navegação Prática - caravan](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Interfaces%20Digitais/caravan/print/print-caravan-final.JPG) | ![Navegação Prática - handel](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Interfaces%20Digitais/handel/print/print-handel-final.JPG)
 
+[Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Interfaces%20Digitais)
+
+...
 
 - **UI - Design** (18/06/2023)
 
