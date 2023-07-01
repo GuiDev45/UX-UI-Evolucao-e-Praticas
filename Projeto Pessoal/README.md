@@ -13,18 +13,33 @@ Listas de projetos/trabalhos e habilidades
 **Texto Inicial**: 
 Sobre o que faço, foto
 
-**Menu**: 
-Experiência/Projetos, Formação e Contato
+**Nav**
+Contatos - Email, telefone e rede social
+
+**Principal**: 
+Experiência/Projetos, Formação
 
 **Experiência**: 
-Nome do projeto, quando o projeto foi feito, tecnologias utilizadas
+Nome do projeto, quando o projeto foi feito, descrição
 
 **Formação**:
 Onde, quando e o título 
 Cursos profissionais/intensivos
-Idiomas
 
-**Contato**:
-Email, telefone e rede social
+**Hobbies**:
+5 itens
+
+
+**Sidebar**:
+Skills, Idiomas, Rede social, QR Code
 
 **Protótipo**:
+(1) - Adicionando informações iniciais
+
+...
+
+| (1) - Adicionando informações iniciais              |
+| --------------------------------------------------- |
+| ![Rascunho e início de protótipo - surfbot](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/print-conteudo-inicio.JPG)
+
+...
