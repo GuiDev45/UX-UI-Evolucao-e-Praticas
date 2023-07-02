@@ -33,9 +33,9 @@ Cursos profissionais/intensivos
 **Sidebar**:
 Skills, Idiomas, Rede social, QR Code
 
-**Protótipo**:
+**Protótipo**:<br>
 (1) - Adicionando informações iniciais<br>
-(2) - Espaçamento e tipografia
+(2) - Espaçamento e tipografia<br>
 
 ...
 
