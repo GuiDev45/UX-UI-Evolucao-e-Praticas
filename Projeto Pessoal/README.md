@@ -34,7 +34,7 @@ Cursos profissionais/intensivos
 Skills, Idiomas, Rede social, QR Code
 
 **Protótipo**:
-(1) - Adicionando informações iniciais
+(1) - Adicionando informações iniciais<br>
 (2) - Espaçamento e tipografia
 
 ...
