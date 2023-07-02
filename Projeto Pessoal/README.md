@@ -35,11 +35,12 @@ Skills, Idiomas, Rede social, QR Code
 
 **Protótipo**:
 (1) - Adicionando informações iniciais
+(2) - Espaçamento e tipografia
 
 ...
 
-| (1) - Adicionando informações iniciais              |
-| --------------------------------------------------- |
-| ![Rascunho e início de protótipo - surfbot](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/print-conteudo-inicio.JPG)
+| (1) - Adicionando informações iniciais              | (2) - Espaçamento e tipografia                      |
+| --------------------------------------------------- | --------------------------------------------------- |
+| ![Adicionando informações iniciais](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/print-conteudo-inicio.JPG) | ![Espaçamento e tipografia](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/print-tipografia-e-espacamento.JPG)
 
 ...
