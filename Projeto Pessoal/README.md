@@ -42,7 +42,7 @@ Skills, Idiomas, Rede social, QR Code
 ...
 
 | (1) - Adicionando informações iniciais              | (2) - Espaçamento e tipografia                      | (3) - Cores e detalhes                      | (4) - Background e detalhes finais                      |
-| --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | ![Adicionando informações iniciais](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/print-conteudo-inicio.JPG) | ![Espaçamento e tipografia](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/print-tipografia-e-espacamento.JPG) | ![Cores e detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/print-cores-e-detalhes.JPG) | ![Background e detalhes finais](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/projeto-pessoal-cv-final.png)
 
 ...
