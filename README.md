@@ -14,9 +14,9 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 - **Projeto Pessoal - CV 01** (28/06/2023)
 
-| Projeto finalizado                                  |
-| --------------------------------------------------- |
-| ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/projeto-pessoal-cv-final-sem-bg.png)
+| Projeto finalizado                                  | Projeto finalizado com background                   |
+| --------------------------------------------------- | --------------------------------------------------- |
+| ![Projeto finalizado](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/projeto-pessoal-cv-final-sem-bg.png) | ![Projeto finalizado com background](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/projeto-pessoal-cv-final.png)
 
 [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Projeto%20Pessoal)
 
