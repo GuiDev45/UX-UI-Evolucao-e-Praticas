@@ -16,7 +16,7 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 | Projeto finalizado                                  |
 | --------------------------------------------------- |
-| ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/projeto-pessoal-cv-final.pdf)
+| ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/projeto-pessoal-cv-final-sem-bg.png)
 
 [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Projeto%20Pessoal)
 
