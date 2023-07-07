@@ -12,10 +12,11 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 ## Projetos Realizados
 
-- **Projeto Pessoal** (28/06/2023)
+- **Projeto Pessoal - CV 01** (28/06/2023)
 
-| Rascunho e início do protótipo                      |
+| Projeto finalizado                                  |
 | --------------------------------------------------- |
+| ![Espaço Prática](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Projeto%20Pessoal/print/projeto-pessoal-cv-final.pdf)
 
 [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Projeto%20Pessoal)
 
