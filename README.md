@@ -14,7 +14,7 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 - **Bikcraft - Wireframe/Prototype** (15/07/2023)
 | --------------------------------------------------- |
-| ![Bikcraft - Wireframe/Prototype](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Wireframe/print/print-wire02.JPG) 
+![Bikcraft - Wireframe/Prototype](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Wireframe/print/print-wire02.JPG) 
 
 [Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Wireframe)
 
