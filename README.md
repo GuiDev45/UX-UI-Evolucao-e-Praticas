@@ -12,7 +12,7 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 ## Projetos Realizados
 
-- **Bikcraft - Wireframe/Prototype** (15/07/2023)
+- **Wireframe/Prototype** (15/07/2023)
 
 | Bikcraft                                            |
 | --------------------------------------------------- |
