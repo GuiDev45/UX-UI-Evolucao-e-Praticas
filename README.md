@@ -12,6 +12,16 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 ## Projetos Realizados
 
+- **Prática Tela Login - 01** (23/07/2023)
+
+| Tela Login - 01                                     |
+| --------------------------------------------------- |
+| ![Tela Login - 01](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Tela-Login-01/prints/print-01.JPG) 
+
+[Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Tela-Login-01)
+
+...
+
 - **Wireframe/Prototype** (15/07/2023)
 
 | Bikcraft                                            |
