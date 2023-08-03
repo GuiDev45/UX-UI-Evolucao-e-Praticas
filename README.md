@@ -12,6 +12,17 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 ## Projetos Realizados
 
+- **Prática Tela Health - 01** (30/07/2023)
+
+| Tela Controle financeiro - 01                                    |
+| --------------------------------------------------- |
+| ![Tela Controle financeiro - 01](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/blob/master/Tela%20-%20controle%20financeiro/prints/print-01.JPG) 
+
+[Veja mais detalhes](https://github.com/GuiDev45/UX-UI-Evolucao-e-Praticas/tree/master/Tela%20-%20controle%20financeiro)
+
+...
+
+
 - **Prática Tela Health - 01** (26/07/2023)
 
 | Tela Health - 01                                    |
